@@ -1,4 +1,4 @@
-# CoffeeShop Proj
+# CoffeeShop Project
 The CoffeeShop program is designed for ordering at the Wolfpack Coffee Shop by calculating the total cost and estimating the delivery time based on user inputs. The application prompts users to enter their order time, location details (on-campus or off-campus), and the quantities of various items. It validates the provided time, location, and quantities to ensure they meet the shop's criteria. Based on the input, the program calculates the order cost, including a possible delivery fee, and estimates the delivery time, accounting for factors such as busy periods and delivery zones. This gives an accurate and easy ordering experience for both on-campus and nearby off-campus customers.
 
 # PaceCalculator
